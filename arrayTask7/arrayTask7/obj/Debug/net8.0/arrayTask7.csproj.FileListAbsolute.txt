@@ -1,0 +1,4 @@
+C:\Users\elsad\source\repos\arrayTask7\arrayTask7\obj\Debug\net8.0\arrayTask7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\arrayTask7\arrayTask7\obj\Debug\net8.0\arrayTask7.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\arrayTask7\arrayTask7\obj\Debug\net8.0\arrayTask7.AssemblyInfo.cs
+C:\Users\elsad\source\repos\arrayTask7\arrayTask7\obj\Debug\net8.0\arrayTask7.csproj.CoreCompileInputs.cache
