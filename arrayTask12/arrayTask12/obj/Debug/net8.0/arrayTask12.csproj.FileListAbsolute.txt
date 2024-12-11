@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\bin\Debug\net8.0\arrayTask12.exe
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\bin\Debug\net8.0\arrayTask12.deps.json
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\bin\Debug\net8.0\arrayTask12.runtimeconfig.json
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\bin\Debug\net8.0\arrayTask12.dll
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\bin\Debug\net8.0\arrayTask12.pdb
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\obj\Debug\net8.0\arrayTask12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\obj\Debug\net8.0\arrayTask12.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\obj\Debug\net8.0\arrayTask12.AssemblyInfo.cs
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\obj\Debug\net8.0\arrayTask12.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\obj\Debug\net8.0\arrayTask12.dll
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\obj\Debug\net8.0\refint\arrayTask12.dll
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\obj\Debug\net8.0\arrayTask12.pdb
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\obj\Debug\net8.0\arrayTask12.genruntimeconfig.cache
+C:\Users\elsad\source\repos\arrayTask12\arrayTask12\obj\Debug\net8.0\ref\arrayTask12.dll
