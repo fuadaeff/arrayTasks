@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\bin\Debug\net8.0\arrayTask3.exe
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\bin\Debug\net8.0\arrayTask3.deps.json
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\bin\Debug\net8.0\arrayTask3.runtimeconfig.json
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\bin\Debug\net8.0\arrayTask3.dll
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\bin\Debug\net8.0\arrayTask3.pdb
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.AssemblyInfo.cs
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.dll
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\obj\Debug\net8.0\refint\arrayTask3.dll
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.pdb
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\obj\Debug\net8.0\arrayTask3.genruntimeconfig.cache
+C:\Users\elsad\source\repos\arrayTask3\arrayTask3\obj\Debug\net8.0\ref\arrayTask3.dll
